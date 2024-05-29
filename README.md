@@ -1,10 +1,10 @@
 <h1>
-  hey I'm Idriss
+  Hello World welcome My Name is Idriss
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
-##  welcome to my profile
+##  Profile
 
 <div>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" height="100px"/>
