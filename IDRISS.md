@@ -1,5 +1,5 @@
 <h1>
-  Hello World welcome My Name is Idriss
+  Hello i'm Idriss
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -10,11 +10,16 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" height="100px"/>
 </div>
 
-## I am a software Developer from Burundi (working at afritic)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+## a fullstack Developer from Burundi (working at afritic group)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <div>
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200px" height="200px"/>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IdrissaMurenga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IdrissaMurenga&theme=dark&hide_border=false)<br/>
+
 
 ---
 
@@ -38,4 +43,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IdrissaMurenga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IdrissaMurenga&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffee) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
